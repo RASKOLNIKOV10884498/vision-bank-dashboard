@@ -1,3 +1,8 @@
+
+<img width="1414" height="809" alt="Screenshot 2026-08-25 at 6 05 56 AM" src="https://github.com/user-attachments/assets/78a1de6d-2825-4a7a-93b0-c0e039a27d18" />
+<img width="1059" height="741" alt="Screenshot 2026-08-25 at 6 06 52 AM" src="https://github.com/user-attachments/assets/ee620049-3188-428b-803d-d139dd65a46c" />
+<img width="1433" height="809" alt="Screenshot 2026-08-25 at 6 06 30 AM" src="https://github.com/user-attachments/assets/7d11c3aa-c37e-4494-afb6-b82bb35f46e7" />
+<img width="1432" height="811" alt="Screenshot 2026-08-25 at 6 06 16 AM" src="https://github.com/user-attachments/assets/81e340ee-c573-4967-8115-78334727cc90" />
 # 🏦 Vision Bank Financial Analytics & Business Intelligence Dashboard
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
